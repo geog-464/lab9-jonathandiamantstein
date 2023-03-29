@@ -3,7 +3,7 @@ body {
 }
 
 #div1 {
-    height: 350px;
+    height: 500px;
 	width: 80%;
 	padding: 10px;
     margin: 0 auto;
@@ -15,5 +15,5 @@ body {
 
 #mapdiv {
     height: 800px;
-    width:auto;
+    width: auto;
 }
